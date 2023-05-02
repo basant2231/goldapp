@@ -1,16 +1,6 @@
 # goldapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115031668/235659324-087d8675-ecc6-4ac3-a51c-50478e81c9ed.png" width="300" alt="Screenshot 1">
+  <img src="https://user-images.githubusercontent.com/115031668/235659347-2b80be11-ef0d-4bac-bcdf-96a2b08defeb.PNG" width="300" alt="Screenshot 2">
+</p>
